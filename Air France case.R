@@ -1,4 +1,4 @@
-#------------------- Team Assignment Air France Case ---------------------------
+#------------------- Air France Case ---------------------------
 
 # import library 
 library(ggplot2)
